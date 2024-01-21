@@ -1,0 +1,6 @@
+{
+    "rtsp_urls": [
+        "rtsp://stream_url_1",
+	"rtsp://stream_url_2"
+    ]
+}
