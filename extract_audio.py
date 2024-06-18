@@ -22,7 +22,7 @@ for f in all_files:
             continue
 
     # skip if the file too new
-    if time_difference < timedelta(hours=2):
+    if time_difference < datetime.timedelta(hours=2):
         continue
     
     # skip if the opus file already exists and is not empty
