@@ -1,0 +1,11 @@
+# List of camera configurations
+cameras = [
+    {
+        'ip': '172.16.8.162',
+        'username': 'admin',
+        'password': 'password',
+        'port': 554,
+        'stream_path': 'stream1'
+    }
+    # Add more cameras as needed
+]
